@@ -1,6 +1,5 @@
-**# Título**
+**# Actividades del Semestre _Programacion Numerica_**
 
-_cursiva_ **negritas**
 **_TAREA 4_**
 1. [_Ejercico de choleshy_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Choleshy.py)
 2. [_Ejercico de Descomposicion_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Descomposicion%20Lu.py)
