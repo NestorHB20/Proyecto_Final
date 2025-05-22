@@ -26,11 +26,23 @@ _"Sistemas de ecuaciones lineales"_
 
 **_TAREA 5_**
 _"Integración y diferenciación numéricas"_
-1. []()
-2. []()\
-3. []()
-4. []()
-5. []()
+1. [Ejercicios "A"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Tarea5A.py)
+2. [Ejercicios "B"](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5B.py)
+3. [Ejercicios "C"](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5C.py)
+4. [Ejercicios "C, Taylor"](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5CTaylor.py)
+5. [Ejercicios E2](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5E2.py)
+
+**_TAREA 6_**
+_"Interpolación y Regresión Numéricas"_
+1. [Ejercicio I, Interpolaciones]()
+2. [Ejercicio "Regrsion lineal con grafica"]()
+3. [Ejercico "Secuencia de datos"]()
+4. [Ejercicio II "b"]()
+5. [Ejercicio II "c"]()
+6. [Ejercicio II "d"]()
+7. [Ejercicio II "f"]()
+
+
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 <img src="https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif" width="300" style="border-radius:10px;">
