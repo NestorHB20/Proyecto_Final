@@ -36,13 +36,13 @@ _"Integración y diferenciación numéricas"_
 
 **_TAREA 6_**
 _"Interpolación y Regresión Numéricas"_
-1. [Ejercicio I, Interpolaciones]()
-2. [Ejercicio "Regrsion lineal con grafica"]()
-3. [Ejercico "Secuencia de datos"]()
-4. [Ejercicio II "b"]()
-5. [Ejercicio II "c"]()
-6. [Ejercicio II "d"]()
-7. [Ejercicio II "f"]()
+1. [Ejercicio I, Interpolaciones](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20I%2C%20Interpolaciones.py)
+2. [Ejercicio "Regrsion lineal con grafica"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Regresion%20Lineal%20y%20grafica.py)
+3. [Ejercico "Secuencia de datos"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Secuencia%20de%20datos.py)
+4. [Ejercicio II "b"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20b).py)
+5. [Ejercicio II "c"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20c).py)
+6. [Ejercicio II "d"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20d).py)
+7. [Ejercicio II "f"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20f).py)
 
 
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
