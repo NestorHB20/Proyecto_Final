@@ -45,7 +45,7 @@ _"Interpolación y Regresión Numéricas"_
 7. [Ejercicio II "f"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20%22f%22.py)
 
 
-<img src="https://raw.githubusercontent.com/NestorHB20/Proyecto_Final/main/Final.gif" width="300" style="border-radius:10px;">
+                                       <img src="https://raw.githubusercontent.com/NestorHB20/Proyecto_Final/main/Final.gif" width="300" style="border-radius:10px;">
 
-<img src="pocoyo.gif" width="300" style="border-radius:10px;" alt="El pocoyo">
+                                       <img src="pocoyo.gif" width="300" style="border-radius:10px;" alt="El pocoyo">
 
