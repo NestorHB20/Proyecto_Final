@@ -4,6 +4,7 @@
 
 **_TAREA 1_**
 _"Repaso de programacíon"_
+1. [Ejercicios de la Tarea](https://github.com/NestorHB20/Proyecto_Final/blob/main/PN%20Tarea%201.py)
 
 **_TAREA 2_**
 
