@@ -14,6 +14,8 @@ _"Raíces de ecuaciones, parte I"_
 1. [Ejercicio de newton raphson](https://github.com/NestorHB20/Proyecto_Final/blob/main/newtonraphson%20(1).fig)
 2. [Ejercicio de descop](https://github.com/NestorHB20/Proyecto_Final/blob/main/descop%20(1).fig)
 
+<img src="meme.jpg" width="300" style="border-radius:10px;" alt="MEME">
+
 **_TAREA 3_**
 _"Raíces de ecuaciones, parte II"_
 1. [Ejercicio de falsa posicion](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetFP%20(1).mlx)
