@@ -1,4 +1,4 @@
-# ** Actividades del Semestre**
+# ** Actividades Realizadas en el emestre**
 
  _Programacion Numerica_
 
@@ -23,6 +23,8 @@ _"Sistemas de ecuaciones lineales"_
 3. [_Ejercico de Gauss Jordan_](https://github.com/NestorHB20/Proyecto_Final/blob/main/GaussJordan.py)
 4. [_Ejercico del Metodo de Cramer_](https://github.com/NestorHB20/Proyecto_Final/blob/main/MD%20cramer.py)
 5. [_Ejercico de Matriz inversa_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Matriz%20inversa.py)
+
+![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 **_TAREA 5_**
 _"Integración y diferenciación numéricas"_
