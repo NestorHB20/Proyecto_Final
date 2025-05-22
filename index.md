@@ -1,10 +1,10 @@
 # *Actividades Realizadas en el emestre*
 ---
 ---
- _Programacion Numerica_
+ **_Programación Numérica_**
 
 >**_TAREA 1_**
->_"Repaso de programacíon"_
+>_"Repaso de programación"_
 >1. [Ejercicios de la Tarea](https://github.com/NestorHB20/Proyecto_Final/blob/main/PN%20Tarea%201.py)
 
 <img src="RepasoP.jpg" width="300" style="border-radius:10px;" alt="Imagen de programacion">
