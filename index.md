@@ -13,8 +13,8 @@ _"Raíces de ecuaciones, parte I"_
 
 **_TAREA 3_**
 _"Raíces de ecuaciones, parte II"_
-1 [Ejercicio de falsa posicion](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetFP%20(1).mlx)
-2 [Ejercicio de birge vieta](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetBV%20(1).mlx)
+1. [Ejercicio de falsa posicion](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetFP%20(1).mlx)
+2. [Ejercicio de birge vieta](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetBV%20(1).mlx)
 
 **_TAREA 4_**
 _"Sistemas de ecuaciones lineales"_
