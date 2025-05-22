@@ -1,5 +1,6 @@
 # *Actividades Realizadas en el emestre*
-
+---
+---
  _Programacion Numerica_
 
 **_TAREA 1_**
