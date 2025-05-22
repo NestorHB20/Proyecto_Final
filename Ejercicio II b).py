@@ -1,4 +1,4 @@
-#Ejercicio II b)
+#Ejercicio II "b"
 import pandas as pd
 
 # URL del archivo CSV
