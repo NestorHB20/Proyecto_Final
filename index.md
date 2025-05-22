@@ -53,4 +53,3 @@ _"Interpolación y Regresión Numéricas"_
 
 ![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
 
-![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
