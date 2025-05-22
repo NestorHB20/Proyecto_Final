@@ -56,5 +56,7 @@
 
 <img src="https://raw.githubusercontent.com/NestorHB20/Proyecto_Final/main/Final.gif" width="300" style="border-radius:10px;">
 
+<img src="jerry.gif" width="300" style="border-radius:10px;" alt="Jerry">
+
 <img src="pocoyo.gif" width="300" style="border-radius:10px;" alt="El pocoyo">
 
