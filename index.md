@@ -45,11 +45,7 @@ _"Interpolación y Regresión Numéricas"_
 7. [Ejercicio II "f"](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20II%20%22f%22.py)
 
 
-<img src="https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif" width="300" style="border-radius:10px;">
-
 <img src="https://raw.githubusercontent.com/NestorHB20/Proyecto_Final/main/Final.gif" width="300" style="border-radius:10px;">
 
-<img src="https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
-
-![](https://i0.wp.com/tvaztecaguate.com/wp-content/uploads/2024/04/mapache-pedro.gif?resize=374%2C374&ssl=1)
+<img src="pocoyo.gif" width="300" style="border-radius:10px;" alt="El pocoyo">
 
