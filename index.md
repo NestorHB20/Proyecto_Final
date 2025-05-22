@@ -14,3 +14,6 @@ _"Sistemas de ecuaciones lineales"_
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif)
+
+
+<img src="https://c.tenor.com/Oi6lRUeRUbAAAAAC/tenor.gif" width="300" style="border-radius:10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.3);" alt="Python GIF"/>
