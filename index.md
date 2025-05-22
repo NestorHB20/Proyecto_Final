@@ -11,5 +11,6 @@ _"Sistemas de ecuaciones lineales"_
 4. [_Ejercico del Metodo de Cramer_](https://github.com/NestorHB20/Proyecto_Final/blob/main/MD%20cramer.py)
 5. [_Ejercico de Matriz inversa_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Matriz%20inversa.py)
 
+![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif)
