@@ -1,4 +1,4 @@
-# *Actividades Realizadas en el emestre*
+# *Actividades Realizadas en el Semestre*
 ---
 ---
  **_Programación Numérica_**
