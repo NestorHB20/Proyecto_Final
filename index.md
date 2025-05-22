@@ -35,6 +35,8 @@ _"Integración y diferenciación numéricas"_
 4. [Ejercicios "C, Taylor"](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5CTaylor.py)
 5. [Ejercicios E2](https://github.com/NestorHB20/Proyecto_Final/blob/44c5751f77d91ef1178d5c055e7549a924c7048c/Tarea5E2.py)
 
+<img src="Diferenciacion.jpg" width="300" style="border-radius:10px;" alt="Integracion">
+
 **_TAREA 6_**
 _"Interpolación y Regresión Numéricas"_
 1. [Ejercicio I, Interpolaciones](https://github.com/NestorHB20/Proyecto_Final/blob/main/Ejercicio%20I%2C%20Interpolaciones.py)
