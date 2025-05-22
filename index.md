@@ -21,6 +21,8 @@ _"Raíces de ecuaciones, parte II"_
 1. [Ejercicio de falsa posicion](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetFP%20(1).mlx)
 2. [Ejercicio de birge vieta](https://github.com/NestorHB20/Proyecto_Final/blob/main/MetBV%20(1).mlx)
 
+<img src="Newtonmme.jpg" width="300" style="border-radius:10px;" alt="LOL">
+
 **_TAREA 4_**
 _"Sistemas de ecuaciones lineales"_
 1. [_Ejercico de choleshy_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Choleshy.py)
