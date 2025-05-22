@@ -7,6 +7,8 @@
 _"Repaso de programacíon"_
 1. [Ejercicios de la Tarea](https://github.com/NestorHB20/Proyecto_Final/blob/main/PN%20Tarea%201.py)
 
+<img src="RepasoP.jpg" width="300" style="border-radius:10px;" alt="Imagen de programacion">
+
 **_TAREA 2_**
 _"Raíces de ecuaciones, parte I"_
 1. [Ejercicio de newton raphson](https://github.com/NestorHB20/Proyecto_Final/blob/main/newtonraphson%20(1).fig)
