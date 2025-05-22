@@ -8,10 +8,13 @@ _"Repaso de programacíon"_
 
 **_TAREA 2_**
 _"Raíces de ecuaciones, parte I"_
-1. [Ejercicio de newton raphson y descop]()
+1. [Ejercicio de newton raphson](https://github.com/NestorHB20/Proyecto_Final/blob/main/newtonraphson%20(1).fig)
+2. [Ejercicio de descop](https://github.com/NestorHB20/Proyecto_Final/blob/main/descop%20(1).fig)
 
 **_TAREA 3_**
 _"Raíces de ecuaciones, parte II"_
+1 [Ejercicio de falsa posicion]()
+2 [Ejercicio de birge vieta]()
 
 **_TAREA 4_**
 _"Sistemas de ecuaciones lineales"_
@@ -21,7 +24,7 @@ _"Sistemas de ecuaciones lineales"_
 4. [_Ejercico del Metodo de Cramer_](https://github.com/NestorHB20/Proyecto_Final/blob/main/MD%20cramer.py)
 5. [_Ejercico de Matriz inversa_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Matriz%20inversa.py)
 
-<img src="https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg" width="300" style="border-radius:10px;">
+![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 <img src="https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif" width="300" style="border-radius:10px;">
 
