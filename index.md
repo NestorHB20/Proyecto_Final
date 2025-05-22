@@ -1,4 +1,4 @@
-**# Actividades del Semestre**
+# ** Actividades del Semestre**
 
  _Programacion Numerica_
 
@@ -24,6 +24,13 @@ _"Sistemas de ecuaciones lineales"_
 4. [_Ejercico del Metodo de Cramer_](https://github.com/NestorHB20/Proyecto_Final/blob/main/MD%20cramer.py)
 5. [_Ejercico de Matriz inversa_](https://github.com/NestorHB20/Proyecto_Final/blob/main/Matriz%20inversa.py)
 
+**_TAREA 5_**
+_"Integración y diferenciación numéricas"_
+1. []()
+2. []()\
+3. []()
+4. []()
+5. []()
 ![](https://github.com/NestorHB20/Proyecto_Final/blob/main/imagen%20L.jpg)
 
 <img src="https://github.com/NestorHB20/Proyecto_Final/blob/main/Final.gif" width="300" style="border-radius:10px;">
